@@ -868,6 +868,3 @@ The following enhancements are planned for future versions of the platform:
 
 ---
 
-## License
-
-This project is currently private and proprietary. All rights reserved. No open-source license is granted at this time.
